@@ -1,3 +1,3 @@
-SASS BASICS DOCS
+SASS/ParcelJS - Starter-kit
 ================
 

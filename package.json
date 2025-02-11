@@ -1,5 +1,5 @@
 {
-  "name": "testParcelJS",
+  "name": "StarterKit",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -14,11 +14,11 @@
     "url": "git+https://github.com/b3no1t/7-1-architecture.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Benoit Lepage",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "parcel",
+    "start": "parcel index.html",
     "build": "parcel build"
   },
   "devDependencies": {

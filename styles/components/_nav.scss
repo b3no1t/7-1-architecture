@@ -1,0 +1,30 @@
+/// Navigation primary
+/// ------------------
+
+.navbar{
+
+ &__brand{}
+
+ &__nav{}
+
+ &__toggler{}
+
+}
+
+.nav{
+
+  &__item{}
+  
+  &__link{}
+
+}
+
+.dropdown{
+
+  &__item{}
+
+}
+
+[aria-current]{
+  color: $is-active;
+}
