@@ -1,0 +1,28 @@
+{
+  "name": "testParcelJS",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/b3no1t/7-1-architecture#readme",
+  "bugs": {
+    "url": "https://github.com/b3no1t/7-1-architecture/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3no1t/7-1-architecture.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.13.3",
+    "parcel": "^2.13.3"
+  }
+}
