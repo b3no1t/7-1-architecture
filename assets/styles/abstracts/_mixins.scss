@@ -20,6 +20,12 @@
 
 
 // Font face, font family
+//   $font-name: nom du font,
+//   $path: chemin vers le dossier contenant les fichiers de police,
+//   $weight: graisse de la police (normal, bold, italic etc...),
+//   $style: style de la police (normal, italic, oblique etc...)
+
+// Font face, font family
 @mixin font-face(
  $font-name, 
  $path, 
@@ -55,7 +61,7 @@
 
 
 
-
+/// Pseudo element
 // save lines for pseudo elm
 @mixin pseudo(
   $width: 100%,
