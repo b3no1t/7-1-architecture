@@ -10,7 +10,8 @@ SASS/ParcelJS - Starter-kit - Exercice 01
 * ParcelJS
 * typo Montserrat à télécharger sur google fonts.
 * le logo est founi dans assets/imgs
-* Pour le mobile adapté au mieux le template large.
+* Pour le mobile adaptez au mieux le template large.
+  * en une colonne.
 * mobile first.
 
 #### Exercice
