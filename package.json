@@ -16,7 +16,6 @@
   "license": "ISC",
   "author": "Benoit Lepage",
   "type": "commonjs",
-  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build"
